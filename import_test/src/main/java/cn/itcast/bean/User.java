@@ -12,7 +12,7 @@ public class User {
 	public String city4;
 	private Integer aaaaa;
 	private Integer ddd;
-	private String house6;
+	private String eee;
 	private String jiedao6;
-	//fsdfsdfsdfs
+	//iuiuiuiui
 }

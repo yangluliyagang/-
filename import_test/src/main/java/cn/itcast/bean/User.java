@@ -9,7 +9,7 @@ import lombok.Data;
 public class User {
 	private String username;
 	private String money;
-	public String city2;
+	public String city3;
 	private Integer number;
 	private Integer age;
 	private String house;

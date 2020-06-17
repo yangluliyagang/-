@@ -12,6 +12,7 @@ public class User {
 	public String city4;
 	//要发生冲突
 	private Integer aaaaa;
+	//新用户测试
 	private Integer ddd;
 	private String eee;
 	private String jiedao6;

@@ -15,4 +15,5 @@ public class User {
 	private String house3;
 	private String jiedao3;
 	//test分支
+	//test2
 }

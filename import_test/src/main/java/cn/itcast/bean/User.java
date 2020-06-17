@@ -12,6 +12,8 @@ public class User {
 	public String city4;
 	private Integer number;
 	private Integer age;
-	private String house6;
-	private String jiedao6;
+	private String house3;
+	private String jiedao3;
+	//test分支
+	//test2
 }

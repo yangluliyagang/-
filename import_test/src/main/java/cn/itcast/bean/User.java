@@ -10,7 +10,7 @@ public class User {
 	private String username;
 	private String money;
 
-	private String test;
+	private String aaa;
 	public String city4;
 	private Integer number;
 	private Integer age;

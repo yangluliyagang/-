@@ -13,6 +13,7 @@ public class User {
 	private Integer number;
 	private Integer age;
 
+
 	private String house;
 	private String jiedao;
 }

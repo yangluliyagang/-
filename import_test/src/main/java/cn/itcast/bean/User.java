@@ -11,6 +11,7 @@ public class User {
 	private String money1;
 	public String city4;
 	private Integer aaaaa;
+	//新用户测试
 	private Integer ddd;
 	private String eee;
 	private String jiedao6;

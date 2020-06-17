@@ -7,15 +7,15 @@ import lombok.Data;
  */
 @Data
 public class User {
-	private String username1;
+	private String nnnn;
+	private String hhhh;
 	private String money1;
 	public String city4;
-	private Integer number;
-	private Integer age;
-	private String house3;
-	private String jiedao3;
-	//test分支
-	//test2
-    //aaaa
-	//bbb
+	//分支合并
+	private Integer aaaaa;
+	private Integer ddd;
+	private String eee;
+	private String jiedao6;
+	//iuiuiuiui
+
 }

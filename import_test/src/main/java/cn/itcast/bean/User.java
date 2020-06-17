@@ -8,6 +8,7 @@ import lombok.Data;
 @Data
 public class User {
 	private String nnnn;
+	private String hhhh;
 	private String money1;
 	public String city4;
 	private Integer aaaaa;

@@ -10,6 +10,7 @@ public class User {
 	private String username;
 	private String money;
 
+	private int bbb;
 	private String aaa;
 	public String city4;
 	private Integer number;

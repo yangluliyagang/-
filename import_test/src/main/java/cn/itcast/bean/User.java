@@ -12,7 +12,6 @@ public class User {
 	public String city4;
 	private Integer number;
 	private Integer age;
-	private String house;
-	private String jiedao;
-	//up
+	private String house2;
+	private String jiedao2;
 }

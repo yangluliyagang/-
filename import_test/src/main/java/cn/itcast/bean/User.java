@@ -11,4 +11,5 @@ public class User {
 	private String money;
 	private Integer number;
 	private Integer age;
+	private String house;
 }

@@ -9,9 +9,6 @@ import lombok.Data;
 public class User {
 	private String username;
 	private String money;
-
-
-	private String aaa;
 	public String city4;
 	private Integer number;
 	private Integer age;

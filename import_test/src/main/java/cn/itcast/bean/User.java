@@ -11,7 +11,7 @@ public class User {
 	private String money1;
 	public String city4;
 	private Integer aaaaa;
-	private Integer ccc;
+	private Integer ddd;
 	private String house6;
 	private String jiedao6;
 }

@@ -14,5 +14,5 @@ public class User {
 	private Integer age;
 	private String house;
 	private String jiedao;
-	//update
+	//up
 }

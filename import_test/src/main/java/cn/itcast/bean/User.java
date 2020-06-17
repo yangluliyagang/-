@@ -14,5 +14,5 @@ public class User {
 	private Integer age;
 	private String house1;
 	private String jiedao1;
-	//git stash
+
 }

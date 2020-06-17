@@ -10,8 +10,8 @@ public class User {
 	private String username1;
 	private String money1;
 	public String city4;
-	private Integer number;
-	private Integer age;
+	private Integer aaaaa;
+	private Integer ccc;
 	private String house6;
 	private String jiedao6;
 }

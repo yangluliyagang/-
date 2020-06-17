@@ -8,6 +8,7 @@ import lombok.Data;
 @Data
 public class User {
 	private String username;
+	private String money;
 	private Integer number;
 	private Integer age;
 }
